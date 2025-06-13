@@ -92,3 +92,44 @@ Water, Impervious, Farm, Forest, Grass, Orchard.
 ## Contact
 
 Feel free to connect with me on LinkedIn or GitHub 😊
+
+
+
+
+
+
+
+🌟 My First Kaggle Hackathon Experience! 🚀 🌟
+
+I’m excited to share that I recently participated in my first-ever Kaggle Hackathon — the Summer Analytics First Hackathon organized by Consulting & Analytics Club & GeeksforGeeks!
+
+💻🔬 Competition Theme:
+🌱 NDVI-based Land Cover Classification using satellite imagery data
+
+🎯 Key Highlights:
+
+✅ First Kaggle competition experience ✅
+
+✅ Explored real-world geospatial and time-series data ✅
+
+✅ Built my own Machine Learning pipeline from scratch ✅
+
+✅ Scored 0.61333 and secured a leaderboard rank of 227 out of hundreds of participants 🎉
+
+✅ Learned the power of feature engineering, data cleaning, and model experimentation
+
+🔧 Skills Sharpened:
+
+Python 🐍
+
+Pandas, NumPy, Scikit-learn 📊
+
+Machine Learning Models (Logistic Regression, Random Forest, XGBoost)
+
+Data Analysis & Problem Solving 🔎
+
+This journey has taught me a lot about tackling real-world datasets, model optimization, and continuous learning. The Kaggle community has been incredibly inspiring, and I can't wait to take part in more competitions to sharpen my skills further! 🔥
+
+A big shoutout to the organizers and fellow participants for making this an amazing learning experience! 🙌
+
+#Kaggle #MachineLearning #DataScience #Hackathon #FirstHackathon #KaggleJourney #NDVI #AI #ContinuousLearning #ProudMoment
